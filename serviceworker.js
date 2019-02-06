@@ -1,1 +1,1 @@
-importScripts("https://amadelgithubio.push.world/https.serviceworker.js");
+importScripts("https://amadelgithubio.dev.push.world/https.serviceworker.js");
