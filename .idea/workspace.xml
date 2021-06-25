@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d126b26f-a70b-4062-af5f-5b49af009fac" name="Default" comment="" />
+    <list default="true" id="d126b26f-a70b-4062-af5f-5b49af009fac" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceworker-update.js" beforeDir="false" afterPath="$PROJECT_DIR$/serviceworker-update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceworker.js" beforeDir="false" afterPath="$PROJECT_DIR$/serviceworker.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +36,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -57,6 +68,7 @@
       <workItem from="1550504854118" duration="299000" />
       <workItem from="1572961671498" duration="1432000" />
       <workItem from="1580304865611" duration="342000" />
+      <workItem from="1624614930532" duration="238000" />
     </task>
     <servers />
   </component>
